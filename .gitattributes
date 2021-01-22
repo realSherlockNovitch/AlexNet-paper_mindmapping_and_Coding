@@ -1,0 +1,2 @@
+Alex-MNIST.pkl filter=lfs diff=lfs merge=lfs -text
+Alex-CIFAR-10.pkl filter=lfs diff=lfs merge=lfs -text
