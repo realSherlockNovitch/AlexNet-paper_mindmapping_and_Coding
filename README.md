@@ -15,4 +15,4 @@ mindmap.pdf为思维导图
 如果像论文那样初始化参数，将会导致局部收敛，这种局部收敛还是在一个很低的水平上。
 故在AlexNet1中取消了偏置的初始化，并在两个数据集上进行了测试
 
-#Alex-MNIST.pkl和Alex-CIFAR-10.pkl 保存了已经训练好的模型的参数
+# Alex-MNIST.pkl和Alex-CIFAR-10.pkl 保存了已经训练好的模型的参数
